@@ -2,13 +2,13 @@
 
 Founder, [Brainstorm AGI](https://brainstormagi.com) -- Arizona
 
-I build AI systems that run real businesses. Not demos, not prototypes -- production platforms handling live phone calls, scheduling decisions, compliance workflows, and operational intelligence for industries that still run on phones, paper, and manual follow-up.
+We build AI systems that run real businesses. Not demos, not prototypes -- production platforms handling live phone calls, scheduling decisions, compliance workflows, and operational intelligence for industries that still run on phones, paper, and manual follow-up.
 
 ---
 
-## What I Build
+## What We Build
 
-**Operational AI platforms** -- multi-tenant agent systems with voice, SMS, email, and workflow automation. Every system I ship handles real workloads with real compliance requirements.
+**Operational AI platforms** -- multi-tenant agent systems with voice, SMS, email, and workflow automation. Every system we ship handles real workloads with real compliance requirements.
 
 **Agent infrastructure** -- persistent memory with graph relationships, autonomous consolidation, adaptive retrieval, and benchmarked evaluation. Agents that remember, learn, and improve without human intervention.
 
