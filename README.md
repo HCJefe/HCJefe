@@ -41,4 +41,3 @@ Memory is not a feature -- it is the foundation. An agent without persistent, ve
 ## Links
 
 - [Brainstorm AGI](https://brainstormagi.com)
-- [AI Agency for Hire](https://aiagencyforhire.com)
